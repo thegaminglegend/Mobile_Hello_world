@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello_World</string>
+    <string name="hello_string">Hello Moses!</string>
+    <string name="name">Name：</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="display">Display</string>
+
+</resources>
